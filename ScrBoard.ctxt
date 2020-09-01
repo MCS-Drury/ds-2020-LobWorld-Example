@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ScrBoard
+comment0.text=\n\ Write\ a\ description\ of\ class\ ScrBoard\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ScrBoard()
+comment2.params=
+comment2.target=greenfoot.GreenfootImage\ makeScoreboardImage()
+comment2.text=\n\ makeScoreboardImage\ creates\ the\ image\ for\ the\ scoreboard\ object.\ \ The\ image\n\ initial\ scoreboard\ image\ created\ has\ a\ size\ of\ \n\ DEFAULT_SCOREBOARD_WIDTH\ x\ DEFAULT_SCOREBOARD_HEIGHT.\ \ The\ image\ has\ the\ title\ \n\ "Lob\ Score\ Card."\n\ \n\ @return\ The\ scoreoreboard\ image\ is\ returned.\n
+comment3.params=numLob
+comment3.target=void\ showLobsCnt(int)
+comment3.text=\n\ showLobCnt\ displays\ the\ number\ of\ Lob\ objects\ passed\ to\ it\ on\ the\ scoreboard.\n\ \n\ @param\ numLob\ The\ number\ of\ Lob\ objects\ in\ the\ world.\n
+numComments=4

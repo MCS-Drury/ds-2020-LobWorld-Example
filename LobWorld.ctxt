@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LobWorld
+comment0.text=\n\ LobWorld\ will\ illustrate\ the\ concepts\ of\ classes,\ methods,\ and\ inheritance.\ It\ also\ \n\ illustrates\ the\ role\ the\ act\ method\ of\ a\ world\ plays\ in\ the\ game\ loop.\ \ The\ scoreboard\ \n\ keeps\ track\ of\ the\ number\ of\ Lobster\ objects\ in\ the\ world-initially\ 2.\ \ \n\ \n\ Pressing\ the\ "a"\ key\ will\ add\ a\ lobster\ at\ a\ random\ position\ in\ the\ game.\ \ Pressing\ the\n\ "d"\ key\ will\ remove\ a\ randomly\ selected\ lobster\ from\ the\ game.\n\ \n\ @author\ S.\ Sigman\ \n\ @version\ v2.0\ 9/2/2020\n
+comment1.params=
+comment1.target=LobWorld()
+comment1.text=\n\ Construct\ a\ 1024x576\ world\ that\ contains\ a\ lobster.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ The\ act()\ method\ dose\ the\ following\:\n\ \ \ *\ \ update\ the\ number\ of\ objects\ in\ the\ world\ on\ the\ scoreboard,\n\ \ \ *\ \ checks\ if\ the\ "a"\ key\ has\ been\ pressed,\ if\ so,\ adds\ a\ Lob\ object\ at\ a\ \n\ \ \ \ \ \ random\ position,\ and\n\ \ \ *\ \ checks\ if\ the\ "d"\ key\ has\ been\ pressed,\ if\ so,\ removes\ a\ randomly\ selected\n\ \ \ \ \ \ Lob\ object\ from\ the\ world.\n
+numComments=3
